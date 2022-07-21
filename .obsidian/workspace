@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "3c9b5495e55a0b73",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b39a986ced9fd2a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "carbon-pricing/canada.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ea90614074b89b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "890ebce1f0f3fec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6229ba3ab07ddf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1f708197e11ba4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "canada",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b877f6a7f9f297d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "21f7e26a7adcebf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "38f336585b0edff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "822d131355e26a4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "carbon-pricing/canada.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ba61e26e8fb4cad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "carbon-pricing/canada.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "608f23250872042c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98c91f76c62c6b62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "carbon-pricing/canada.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4b39a986ced9fd2a",
+  "lastOpenFiles": [
+    "carbon-pricing/authenticity.md",
+    "carbon-pricing/article-6.md",
+    "carbon-pricing/canada.md",
+    "carbon-pricing/2022-updates.md"
+  ]
+}
