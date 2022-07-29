@@ -12,6 +12,7 @@ Revised and Accepted 11 April 2022 - Global Environmental Change Journal
 	- This is the nominal price used by the World Bank for their carbon pricing dashboard. 
 	- OCED reports also use this price and refers to it as the standard rate. 
 - **Effective rate**: The sum of implicit and explicit carbon prices. Implicit carbon prices include other regulations/limitations for pollution that aren’t just a carbon tax or ETS. It is possible to calculate a rough estimate of the additional cost that this adds for producers. 
+	- Implicit prices could be, for example, general energy taxes that aren’t going after emissions intensity directly.
 - [Fig. 1](https://ars.els-cdn.com/content/image/1-s2.0-S0959378022000632-gr1_lrg.jpg): Comparison between economy-wide advertised and average carbon prices per ton of CO2.
 	- The majority of carbon prices average below €10 and the highest, Norway, is still below €40.
 	- Across all countries, the mean economy-wide price per ton of CO2 equals €7.90, which is considerably lower than the mean advertised price of €18.68.
@@ -20,8 +21,6 @@ Revised and Accepted 11 April 2022 - Global Environmental Change Journal
 	- For the ‘industrial’ and ‘electricity’ sectors, where the ETS contribution is greatest, the carbon tax contribution is far lower. 
 	- The ‘other transport’ sector is unique in that there are similar levels of contribution from both instruments. This reflects that ETSs and carbon taxes are implemented in a complementary fashion between sectors.
 	- By far the highest authenticity is found in the electricity sector, where the average price is almost €3 higher and the price gap at least three times lower than in any other sector.
-- **Effective carbon rate**: The sum of explicit and implicit prices; effectively the total charge per ton of CO2 (OECD, 2016).
-	- Implicit prices could be, for example, general energy taxes that aren’t going after emissions intensity directly.
 - [Fig. 5](https://ars.els-cdn.com/content/image/1-s2.0-S0959378022000632-gr5_lrg.jpg): Average explicit carbon prices and implicit carbon prices in each country.
 	- The key takeaway from Figure 5 is that the implicit prices tend to dominate the explicit ones in most countries.    
 	- South Korea, Finland, Sweden, France and Norway are the only countries where carbon price rates are greater than 25% of effective carbon rates. 

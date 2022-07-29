@@ -1,0 +1,5 @@
+- China plans to reach peak carbon use by 2030 and become carbon neutral by 2060.
+- [Double carbon policy]([What is China's “double carbon” policy? – SupChina](https://supchina.com/2022/05/16/what-is-chinas-double-carbon-policy/#:~:text=China%20plans%20to%20reach%20peak,become%20carbon%20neutral%20by%202060.)): gradual withdrawal of traditional energy systems and their replacement by new energy.
+	- Specific plans are being released for key carbon-intensive sectors and greener technologies for electricity, transportation, construction are being promoted.
+	- Carbon neutral index on the Shanghai Stock Exchange
+	- Solar energy is expected [to become the largest primary energy source](https://supchina.us11.list-manage.com/track/click?u=05fc7fc9529b01bb9bd1abfa7&id=51f98b77e4&e=4e43d5c73a) by around 2045

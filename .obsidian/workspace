@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "carbon-pricing/canada.md",
+            "file": "countries/canada.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "canada",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "carbon-pricing/canada.md",
+                "file": "countries/canada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "carbon-pricing/canada.md",
+                "file": "countries/canada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "carbon-pricing/canada.md"
+                "file": "countries/canada.md"
               }
             }
           }
@@ -128,11 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4b39a986ced9fd2a",
+  "active": "a6229ba3ab07ddf5",
   "lastOpenFiles": [
-    "carbon-pricing/authenticity.md",
+    "countries/china.md",
+    "countries/canada.md",
     "carbon-pricing/article-6.md",
-    "carbon-pricing/canada.md",
-    "carbon-pricing/2022-updates.md"
+    "carbon-pricing/authenticity.md",
+    "adaptation.md",
+    "ipcc-info.md",
+    "mitigation.md",
+    "adaptation/Untitled.md",
+    "mitigation/emissions-sources.md",
+    "[[emissions-sources]].md"
   ]
 }
