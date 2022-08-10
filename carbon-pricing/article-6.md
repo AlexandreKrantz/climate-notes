@@ -13,3 +13,4 @@
 - Supervisory body that will deal with the creation and maintenance of the international carbon trading marketplace. Expected to hold at least 2 meetings in 2022.
 - The rules implementing Article 6 do not contain an enforcement mechanism, and rely instead on the good faith of the participants. 
 - Currently we have various different government and voluntary carbon credit markets around the world with varying degrees of authenticity. A task for the supervisory body will be to ensure that the credits of the international carbon market meet certain minimum standards.
+- 

@@ -1,0 +1,8 @@
+- Worldwide emissions tracing using satellites and AI: [https://climatetrace.org/](https://climatetrace.org/)
+- Breakdown of climate solutions technology for every sector: [https://drawdown.org/](https://drawdown.org/)
+- Len Rosen (CCL Ca) climate blog: [Home | 21st Century Tech Blog (21stcentech.com)](https://www.21stcentech.com/)
+	- 75k subscribers on the blog.
+	- Working with the ca government on putting carbon emissions labeling on consumer goods.
+- Clean Prosperity is a Canadian organization that is researching climate policy solutions that also grow the economy: [Home - Clean Prosperity](https://cleanprosperity.ca/)
+- MIT climate policy simulator: https://www.climateinteractive.org/ourwork/
+- 

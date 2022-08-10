@@ -7,8 +7,12 @@
         "id": "c829744466035a39",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "online-resources.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "online-resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "online-resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "online-resources.md"
+              }
             }
           }
         ]
@@ -120,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a6229ba3ab07ddf5",
+  "active": "c829744466035a39",
   "lastOpenFiles": [
+    "mitigation.md",
+    "online-resources.md",
+    "carbon-pricing/article-6.md",
     "ipcc-info.md",
     "img/Pasted image 20220722213255.png",
     "adaptation.md",
     "img/Pasted image 20220723202557.png",
     "countries/usa.md",
     "countries/china.md",
-    "countries/canada.md",
-    "carbon-pricing/article-6.md",
-    "carbon-pricing/authenticity.md",
-    "mitigation.md"
+    "countries/canada.md"
   ]
 }

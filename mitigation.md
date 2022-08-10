@@ -7,5 +7,5 @@ We need to stop increasing the concentration of greenhouse gases in the atmosphe
 3. Research in the important areas with significant green premiums
 4. Bring competitively-price emissions-free alternatives to market
 
-## [Emissions by Sector](https://ourworldindata.org/emissions-by-sector)
+## [Emissions by Sector - Our World In Data](https://ourworldindata.org/emissions-by-sector)
 
